@@ -1,0 +1,10 @@
+# Draw the handle using 4 rectangles and then draw the pick.
+### Place Your Code Here ###
+Rect(275, 275, 75, 75)
+Rect(200, 200, 75, 75)
+Rect(125, 125, 75, 75)
+
+Rect(50, 50, 40, 40)
+
+Rect(100, 50, 200, 40)
+Rect(50, 100, 40, 200)
